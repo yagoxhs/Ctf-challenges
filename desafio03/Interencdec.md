@@ -8,12 +8,24 @@ Esse desafio oferece ao desafiante um arquivo sem extensão, que ao abrir como '
 
 
 ## Solution
-Ao analisar o texto, você pode deduzir que se trata de um arquivo codificado com base 64 pelo conjunto de caracteres, tamanho e por terminar com = ou ==, após decodificar você obtém:
+Ao analisar o texto, você pode deduzir que se trata de uma string codificada com base 64 pelo conjunto de caracteres, tamanho e por terminar com = ou ==.
+
+após decodificar você obtém:
 
 ![convert-1](imagi/convert-passo1.png)
 
-Enfim, me deparei com um texto cifrado: "cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzX0E5NjRBMTM0fQ%3D%3D",no qual interpretei que %3D%3D corresponde a ==, ficando assim em um código cifrado de base 64, que após decifrar me retornou a flag.
+Vemos que se trata de outra string codificada na base 64 por seguir o mesmo padrão, exceto pelos caracteres: (b' ') "indicando" que nossa próxima string a ser decodificada esta entre ' ';
 
->`pic0CTF{c00k1e_m0nster_l0ves_c00kies_A964A134}`
+Após decodificar novamente em base 64 obtemos:
+
+![convert-2](imagi/convert-passo2.png)
+
+O resultado que obtemos, ao fazer uma breve análise, percebe-se que está num formato de uma flag pelo padrao de {_ex_ex_} e pelas caracteres aleátorias, pode ter a chance de ser uma string codificada pela Cifra de César, que após decodificar, obtemos a flag.
+
+![convert-3](imagi/convert-passo3.png)
+
+
+
+>`picoCTF{caesar_d3cr9pt3d_b204adc6}`
  
 
