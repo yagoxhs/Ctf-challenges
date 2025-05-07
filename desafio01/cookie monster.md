@@ -3,6 +3,7 @@
 > This is a CTF about Web / Web Exploitation.
 ## About the Challenge
 Esse desafio consiste em um site que contém uma flag escondida em alguma parte do sistema do site, desafiando o usuário a explorar os fundamentos do site para decifrar a flag.
+![Cookie Monster Recipe](image/CookieMonsterRecipe.png)
 
 
 ## Solution
