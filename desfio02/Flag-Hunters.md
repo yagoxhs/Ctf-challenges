@@ -21,7 +21,7 @@ Agora na linha: 'elif re.match(r"RETURN [0-9]+", line): lip = int(line.split()[1
 
 Após essa Análise basta juntarmos as duas soluções e após o input do Cwrd, a senha será: (;RETURN 0).
 
-![quarta parte flag](imagens/print-flag.png)
+![quarta parte flag](imagens/flagfinal.png)
 
 
 
