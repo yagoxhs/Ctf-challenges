@@ -1,6 +1,6 @@
 #Cookie Monster Secret Recipe
 ###### Solved by @Yago Martins
-> This is a CTF about Web / Web Exploitation.
+> Este é um CTF sobre Web / Exploração Web.
 ## About the Challenge
 Esse desafio consiste em um site que contém uma flag escondida em alguma parte do sistema do site, desafiando o usuário a explorar os fundamentos do site para decifrar a flag.
 
