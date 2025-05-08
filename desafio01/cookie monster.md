@@ -17,5 +17,7 @@ Após clicar em qualquer parte da tela com o botão direito, inspecionar, Aplica
 
 Enfim, me deparei com um texto cifrado: "cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzX0E5NjRBMTM0fQ%3D%3D",no qual interpretei que %3D%3D corresponde a ==, ficando assim em um código cifrado de base 64, que após decifrar me retornou a flag.
 
+[![cookie-flag.png](https://i.postimg.cc/jjNk14sc/cookie-flag.png)](https://postimg.cc/DWvgJs44)
+
 >`pic0CTF{c00k1e_m0nster_l0ves_c00kies_A964A134}`
  
