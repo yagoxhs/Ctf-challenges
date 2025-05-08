@@ -1,6 +1,6 @@
 #Interencdec
 ###### Solved by @Yago Martins
-> This is a CTF about Reverse Engineering / Script Logic.
+> Este CTF é sobre Criptografia.
 ## About the Challenge
 Esse desafio oferece ao desafiante um arquivo sem extensão, que ao abrir como '.txt' contem um texto codificado, no qual o desafiante terá de usar diversos métodos de decodificação a partir da análise dos resultados.
 
