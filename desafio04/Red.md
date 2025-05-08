@@ -2,8 +2,9 @@
 ###### Solved by @Yago Martins
 > This is a CTF about Steganography.
 ## About the Challenge
+O desafio diponibiliza uma imagem.png para download, no qual deverá ser feito uma análise de sua construção para encontrar a flag.
 
-![Cookie Monster Recipe](image/cookie.png)
+![imagem png](imagins/Red0.png)
 
 
 ## Solution
