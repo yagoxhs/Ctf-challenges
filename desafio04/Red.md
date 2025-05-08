@@ -1,13 +1,13 @@
 #Cookie Monster Secret Recipe
-###### Solved by @Yago Martins
+###### Resolvido por @Yago Martins
 > Este CTF é sobre Esteganografia.
-## About the Challenge
+## Sobre o desafio
 O desafio diponibiliza uma imagem.png para download, no qual deverá ser feito uma análise de sua construção para encontrar a flag.
 
 [![Redintro.png](https://i.postimg.cc/Nj5Y9mpk/Redintro.png)](https://postimg.cc/hXWNNzFX)
 
 
-## Solution
+## Solução
 O primeiro passo, é acessar a ferramenta Online "CyberChef" e dar upload da imagem na ferramenta (Extract LSB) para extrair os bits dos dados binários da imagem.
 
 [![Red0.png](https://i.postimg.cc/HLgZDCc8/Red0.png)](https://postimg.cc/w1wcLZk9)
