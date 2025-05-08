@@ -1,12 +1,12 @@
 #Cookie Monster Secret Recipe
-###### Solved by @Yago Martins
+###### Resolvido por @Yago Martins
 > Este CTF é sobre Engenharia Reversa.
-## About the Challenge
+## Sobre o desafio
 Esse desafio começa com o desafiante tendo acesso a um arquivo de código fonte '.py' e um link de conexão ncat para rodar um programa: '$ nc verbal-sleep.picoctf.net 60492' o programa roda versos de uma música que ao final de sua primeira parte de execução pede o input de uma senha 'Crowd' para decidir como o programa irá funcionar. O desafio conciste basicamente em você analisar o código fonte para saber qual 'Crowd' correta para o programa lhe retornar uma flag entre os versos da música.
 
 [![primeiraparte.png](https://i.postimg.cc/Tw7SVHk7/primeiraparte.png)](https://postimg.cc/WFZXjScg)
 
-## Solution
+## Solução
 O primeiro passo a se fazer é abrir o código fonte e analisá-lo, logo nas primeiras linhas do código, você já identifica a posição da flag:
 
 [![flag-intro.png](https://i.postimg.cc/3RkMcTD5/flag-intro.png)](https://postimg.cc/S2btnHrD)
