@@ -11,7 +11,7 @@ Esse desafio fornece um site na qual contém uma flag escondida em alguma parte 
 Ao me deslocar para o link do site, após ler o título do desafio: "Cookie Monster...", eu relacionei esta palavra 'cookie' com os 'cookies', que é uma extensão presente em todos os sites do navegador, imaginando ter alguma dica
 sobre como solucionar a flag.
 
-Após clicar em qualquer parte da tela com o botão direito, inspecionar, Aplicativo, Cookies, encontrei uma extensão escrita:"secret_recipe". 
+Após clicar em qualquer parte da tela com o botão direito, inspecionar/ Aplicativo/ Cookies/ encontrei uma extensão escrita:"secret_recipe". 
 
 [![Cookie-Monster2.png](https://i.postimg.cc/LXbfBzjB/Cookie-Monster2.png)](https://postimg.cc/WF0hsqWh)
 
