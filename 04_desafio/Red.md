@@ -1,4 +1,4 @@
-#Cookie Monster Secret Recipe
+#RED
 ###### Resolvido por @Yago Martins
 > Este CTF é sobre Esteganografia.
 ## Sobre o desafio
