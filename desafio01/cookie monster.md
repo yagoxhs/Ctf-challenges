@@ -3,7 +3,8 @@
 > This is a CTF about Web / Web Exploitation.
 ## About the Challenge
 Esse desafio consiste em um site que contém uma flag escondida em alguma parte do sistema do site, desafiando o usuário a explorar os fundamentos do site para decifrar a flag.
-![Cookie Monster Recipe](image/cookie.png)
+
+[![cookie.png](https://i.postimg.cc/R0xgwzvV/cookie.png)](https://postimg.cc/Mnt08Nch)
 
 
 ## Solution
@@ -11,7 +12,8 @@ Ao me deslocar para o link do site, após ler o título do desafio: "Cookie Mons
 sobre como solucionar a flag.
 
 Após clicar em qualquer parte da tela com o botão direito, inspecionar, Aplicativo, Cookies, encontrei uma extensão escrita:"secret_recipe". 
-![Secret Recipe](image/CookieMonster2.png)
+
+[![Cookie-Monster2.png](https://i.postimg.cc/LXbfBzjB/Cookie-Monster2.png)](https://postimg.cc/WF0hsqWh)
 
 Enfim, me deparei com um texto cifrado: "cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzX0E5NjRBMTM0fQ%3D%3D",no qual interpretei que %3D%3D corresponde a ==, ficando assim em um código cifrado de base 64, que após decifrar me retornou a flag.
 
