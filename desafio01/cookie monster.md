@@ -1,13 +1,13 @@
 #Cookie Monster Secret Recipe
-###### Solved by @Yago Martins
+###### Resolvido por @Yago Martins
 > Este é um CTF sobre Web / Exploração Web.
-## About the Challenge
+## Sobre o desafio
 Esse desafio consiste em um site que contém uma flag escondida em alguma parte do sistema do site, desafiando o usuário a explorar os fundamentos do site para decifrar a flag.
 
 [![cookie.png](https://i.postimg.cc/R0xgwzvV/cookie.png)](https://postimg.cc/Mnt08Nch)
 
 
-## Solution
+## Solução
 Ao me deslocar para o link do site, após ler o título do desafio: "Cookie Monster...", eu relacionei esta palavra 'cookie' com os 'cookies', que é uma extensão presente em todos os sites do navegador, imaginando ter alguma dica
 sobre como solucionar a flag.
 
