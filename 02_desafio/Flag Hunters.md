@@ -2,7 +2,11 @@
 ###### Resolvido por @Yago Martins
 > Este CTF é sobre Engenharia Reversa.
 ## Sobre o desafio
-Esse desafio começa com o desafiante tendo acesso a um arquivo de código fonte '.py' e um link de conexão ncat para rodar um programa: '$ nc verbal-sleep.picoctf.net 60492' o programa roda versos de uma música que ao final de sua primeira parte de execução pede o input de uma senha 'Crowd' para decidir como o programa irá funcionar. O desafio conciste basicamente em você analisar o código fonte para saber qual 'Crowd' correta para o programa lhe retornar uma flag entre os versos da música.
+Esse desafio começa com o desafiante tendo acesso a um arquivo de código fonte '.py': (https://challenge-files.picoctf.net/c_verbal_sleep/1c1896b0e29fad87c1415f743b063161cad42d8f636ece348a6361e5be89309d/lyric-reader.py). 
+
+E um link de conexão netcat: ($ nc verbal-sleep.picoctf.net 60492).
+
+O programa roda versos de uma música que ao final de sua primeira parte de execução pede o input de uma senha 'Crowd' para decidir como o programa irá funcionar. O desafio conciste basicamente em você analisar o código fonte para saber qual 'Crowd' correta para o programa lhe retornar uma flag entre os versos da música.
 
 [![primeiraparte.png](https://i.postimg.cc/Tw7SVHk7/primeiraparte.png)](https://postimg.cc/WFZXjScg)
 
