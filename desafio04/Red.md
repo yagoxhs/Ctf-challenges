@@ -1,6 +1,6 @@
 #Cookie Monster Secret Recipe
 ###### Solved by @Yago Martins
-> This is a CTF about Steganography.
+> Este CTF é sobre Esteganografia.
 ## About the Challenge
 O desafio diponibiliza uma imagem.png para download, no qual deverá ser feito uma análise de sua construção para encontrar a flag.
 
