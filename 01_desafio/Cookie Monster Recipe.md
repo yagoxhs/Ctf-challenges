@@ -2,7 +2,7 @@
 ###### Resolvido por @Yago Martins
 > Este é um CTF sobre Web / Exploração Web.
 ## Sobre o desafio
-Esse desafio consiste em um site que contém uma flag escondida em alguma parte do sistema do site, desafiando o usuário a explorar os fundamentos do site para decifrar a flag.
+Esse desafio fornece um site na qual contém uma flag escondida em alguma parte do sistema, desafiando o usuário a explorar os fundamentos do site para decifrar a flag. (http://verbal-sleep.picoctf.net:60118/)
 
 [![cookie.png](https://i.postimg.cc/R0xgwzvV/cookie.png)](https://postimg.cc/Mnt08Nch)
 
