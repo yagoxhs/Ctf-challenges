@@ -4,7 +4,7 @@
 ## Sobre o desafio
 Esse desafio oferece ao desafiante um arquivo sem extensão: (https://artifacts.picoctf.net/c_titan/3/enc_flag).
 
-Ao abri-lo como '.txt' contem um texto codificado, no qual o desafiante terá de usar diversos métodos de decodificação a partir da análise dos resultados.
+Ao abri-lo como '.txt' contém um texto codificado, no qual o desafiante terá de usar diversos métodos de decodificação a partir da análise dos resultados.
 
 [![convert-intro.png](https://i.postimg.cc/66dwJBmt/convert-intro.png)](https://postimg.cc/rzF752TP)
 
