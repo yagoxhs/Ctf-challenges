@@ -1,13 +1,13 @@
 #Interencdec
-###### Solved by @Yago Martins
+###### Resolvido por @Yago Martins
 > Este CTF é sobre Criptografia.
-## About the Challenge
+## Sobre o desafio
 Esse desafio oferece ao desafiante um arquivo sem extensão, que ao abrir como '.txt' contem um texto codificado, no qual o desafiante terá de usar diversos métodos de decodificação a partir da análise dos resultados.
 
 [![convert-intro.png](https://i.postimg.cc/66dwJBmt/convert-intro.png)](https://postimg.cc/rzF752TP)
 
 
-## Solution
+## Solução
 Ao analisar o texto, você pode deduzir que se trata de uma string codificada com base 64 pelo conjunto de caracteres, tamanho e por terminar com = ou ==.
 
 após decodificar você obtém:
