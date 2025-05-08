@@ -1,4 +1,4 @@
-#Cookie Monster Secret Recipe
+#Flag Hunters
 ###### Resolvido por @Yago Martins
 > Este CTF é sobre Engenharia Reversa.
 ## Sobre o desafio
