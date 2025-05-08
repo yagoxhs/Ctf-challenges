@@ -2,7 +2,7 @@
 ###### Resolvido por @Yago Martins
 > Este CTF é sobre Esteganografia.
 ## Sobre o desafio
-O desafio diponibiliza uma imagem.png para download, no qual deverá ser feito uma análise de sua construção para encontrar a flag.
+O desafio diponibiliza uma imagem '.png' para download, no qual deverá ser feito uma análise de sua construção para encontrar a flag.
 
 [![Redintro.png](https://i.postimg.cc/Nj5Y9mpk/Redintro.png)](https://postimg.cc/hXWNNzFX)
 
