@@ -8,11 +8,11 @@ Este desafio começa com a plataforma disponibilizando um dado hexadecimal para 
 
 ### Materiais para consulta em caso de dúvidas: 
 
-Oque é um XOR? (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
+*Oque é um XOR?* (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
 
-Oque é um Hexadecimal? (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
+*Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
-Oque seriam os Bytes? (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
+*Oque seriam os Bytes?* (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
 
 [![003.png](https://i.postimg.cc/0NbVfnVS/003.png)](https://postimg.cc/Y4BN26K2)
 
