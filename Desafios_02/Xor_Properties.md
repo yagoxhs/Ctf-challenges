@@ -23,7 +23,8 @@ Mas porque? Como já temos a Key 1, após relacionar a Key 1 com o resultado da 
 
 Então seguindo esta lógica de "Subtração" a Key 3 é obtida através da relação [Key 2 ⊕ (Key 2 ⊕ Key 3)];
 
-E finalmente para obter a FLAG precisaremos dos resultados das relações das 3 Keys com o resultado da (⊕Flag com Key 1 ⊕ Key 2 ⊕ Key 3).
+E finalmente para obter a FLAG precisaremos dos resultados das relações das 3 Keys com o resultado da (⊕Flag com Key 1 ⊕ Key 2 ⊕ Key 3);
+
 Como se fosse um sistema de equações, precisamos solucionar as incógnitas para junta-las e no final voltar um resultado; Então vamos para a prática!
 
 ## Etapa 1
