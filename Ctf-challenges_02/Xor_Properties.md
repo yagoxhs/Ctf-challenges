@@ -1,7 +1,7 @@
 
 #XOR Properties
 ###### Resolvido por @Yago Martins
-> Este é um CTF sobre XOR.
+> Este é um CTF que aborda principalmente as relações de cálculo de *XOR*, contendo várias incógnitas e necessitando de suas mudanças de base.
 # Sobre o desafio
 Este desafio é sobre o cálculo das relações do XOR para obtenção da flag, para melhor entendimento, vamos tratar as relações de *XOR* como o símbolo: ⊕, primeiro o desafio oferece as propriedades das operações do xor para resolver o desafio: 
 
