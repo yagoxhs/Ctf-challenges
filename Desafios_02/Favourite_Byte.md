@@ -14,6 +14,8 @@ Este desafio começa com a plataforma disponibilizando um dado hexadecimal para 
 
 *Oque seriam os Bytes?* (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
 
+*Sobre a biblioteca pwn tools:* (https://docs.pwntools.com/en/stable/)
+
 [![003.png](https://i.postimg.cc/0NbVfnVS/003.png)](https://postimg.cc/Y4BN26K2)
 
 
