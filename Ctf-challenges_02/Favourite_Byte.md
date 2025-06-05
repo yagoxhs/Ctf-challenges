@@ -1,7 +1,7 @@
 
 #Favourite Byte
 ###### Resolvido por @Yago Martins
-> Este é um CTF sobre XOR.
+> Este é um CTF é sobre como utilizar *XOR* em linguagem de programação, afim de transitar entre os bytes contidos nos dados hexadecimais fornecidos.
 # Sobre o desafio
 
 Este desafio começa com a plataforma disponibilizando um dado hexadecimal para resolução do desafio, basicamente o desafio conciste em você achar o *byte* secreto escondindo no dado hexadecimal e fazer um cálculo utilizando xor e encontrando a flag escondida entre os resultados obtidos.
