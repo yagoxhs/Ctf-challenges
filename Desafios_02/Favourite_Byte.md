@@ -12,6 +12,8 @@ Oque é um XOR? (https://www.bosontreinamentos.com.br/seguranca/criptografia-rev
 
 Oque é um Hexadecimal? (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
+Oque seriam os Bytes? (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
+
 [![003.png](https://i.postimg.cc/0NbVfnVS/003.png)](https://postimg.cc/Y4BN26K2)
 
 
