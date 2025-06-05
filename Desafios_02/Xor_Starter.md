@@ -12,6 +12,8 @@ Este desafio é sobre uma introdução da plataforma "CryptoHack" ao cálculo de
 
 *Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
+*Oque é um ASCII?* (https://www.techtudo.com.br/noticias/2022/10/o-que-e-o-codigo-ascii-confira-a-tabela-completa-e-para-que-serve.ghtml)
+
 
 # Solução
 Para a resolução deste desafio, usei uma ferramenta on-line de cálculo de xor(https://xor.pw/#), que de uma forma simples e prática consegui converter a flag seguindo os seguintes passos:
