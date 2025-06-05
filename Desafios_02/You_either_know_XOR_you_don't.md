@@ -6,9 +6,17 @@
 
 Este desafio disponibiliza um dado hexadecimal para resolução do desafio, você precisa descobrir qual a chave secreta para decriptografar a flag escondida utilizando *XOR* com a seguinte dica: "lembre-se do formato da flag", tendo isso em mente, vamos utilizar durante o procedimento de resolução do desafio.
 
-
 [![001.png](https://i.postimg.cc/C178ZB8K/001.png)](https://postimg.cc/DJW0HzBV)
 
+### Materiais para consulta em caso de dúvidas: 
+
+*Oque é um XOR?* (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
+
+*Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
+
+*Oque seriam os Bytes?* (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
+
+*Sobre a biblioteca pwn tools:* (https://docs.pwntools.com/en/stable/)
 
 # Solução
 
