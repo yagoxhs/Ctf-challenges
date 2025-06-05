@@ -2,9 +2,15 @@
 ###### Resolvido por @Yago Martins
 > Este é um CTF sobre como utilizar as conversões de bases através de *XOR* afim de juntar dados e formar a flag.
 # Sobre o desafio
-Este desafio é sobre uma introdução da plataforma "CryptoHack" ao cálculo de *XOR*(XOR é usada para aplicar a operação lógica XOR (Exclusive OR) entre dois conjuntos de dados — normalmente um texto e uma chave. É útil para decifrar mensagens simples, analisar cookies, ou quebrar criptografias fracas(https://ctf101.org/cryptography/what-is-xor/). O desafio oferece uma string "label" e um número inteiro para a conversão da flag.
+Este desafio é sobre uma introdução da plataforma "CryptoHack" ao cálculo de *XOR*(XOR é usada para aplicar a operação lógica XOR (Exclusive OR) entre dois conjuntos de dados — normalmente um texto e uma chave. É útil para decifrar mensagens simples, analisar cookies, ou quebrar criptografias fraca. O desafio oferece uma string "label" e um número inteiro para a conversão da flag.
 
 [![01.png](https://i.postimg.cc/RZG0RV2y/01.png)](https://postimg.cc/0zMx5xk0)
+
+### Materiais para consulta em caso de dúvidas: 
+
+*Oque é um XOR?* (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
+
+*Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
 
 # Solução
