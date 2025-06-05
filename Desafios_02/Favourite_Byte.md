@@ -6,7 +6,7 @@
 
 Este desafio começa com a plataforma disponibilizando um dado hexadecimal para resolução do desafio, basicamente o desafio conciste em você achar o *byte* secreto escondindo no dado hexadecimal e fazer seu cálculo utilizando *XOR* e encontrando a flag escondida entre os resultados obtidos.
 
-Materiais para consulta em caso de dúvidas: 
+### Materiais para consulta em caso de dúvidas: 
 
 Oque é um XOR? (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
 
