@@ -41,7 +41,9 @@ Para isso utilizaremos a ferramenta online *Xor Calculator*(https://xor.pw/#) co
 
 ## Etapa 2
 
-Tendo finalmente a *XOR* das 3 keys, usando a mesma lógica de "Subtração" de XOR, vamos relacionar as nossas Keys com a última relação *Xor* sobrando somente nossa flag, então com as seguintes configurações e trocando a base 16 da resultado para base 256 ASCII, conseguimos de forma direta a obtenção  já em seu próprio formato: 
+Tendo finalmente a *XOR* das 3 keys, usando a mesma lógica de "Subtração" de XOR, vamos relacionar as nossas Keys com a última relação *XOR* sobrando somente nossa flag;
+
+Então com as seguintes configurações e trocando a base 16 do resultado para base 256 ASCII, conseguimos de forma direta a obtenção  já em seu próprio formato: 
 
 [![03.png](https://i.postimg.cc/FzB6m6Ch/03.png)](https://postimg.cc/sG5m4TRL)
 
