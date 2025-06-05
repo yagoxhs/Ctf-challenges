@@ -4,7 +4,7 @@
 > Este é um CTF que estimula o desafiante a solucionar várias etapas de um quebra cabeça, utilizando vários metodos de cálculo com XOR e linguagem de programação para encontrar a flag.
 # Sobre o desafio
 
-Este desafio disponibiliza um dado hexadecimal para resolução do desafio, você precisa descobrir qual a chave secreta para decriptografar a flag escondida utilizando *XOR* (https://ctf101.org/cryptography/what-is-xor/) com a seguinte dica: "lembre-se do formato da flag", tendo isso em mente, vamos utilizar durante o procedimento de resolução do desafio.
+Este desafio disponibiliza um dado hexadecimal para resolução do desafio, você precisa descobrir qual a chave secreta para decriptografar a flag escondida utilizando *XOR* com a seguinte dica: "lembre-se do formato da flag", tendo isso em mente, vamos utilizar durante o procedimento de resolução do desafio.
 
 
 [![001.png](https://i.postimg.cc/C178ZB8K/001.png)](https://postimg.cc/DJW0HzBV)
