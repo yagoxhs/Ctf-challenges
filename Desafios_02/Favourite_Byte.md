@@ -6,6 +6,8 @@
 
 Este desafio começa com a plataforma disponibilizando um dado hexadecimal para resolução do desafio, basicamente o desafio conciste em você achar o *byte* secreto escondindo no dado hexadecimal e fazer seu cálculo utilizando *XOR* e encontrando a flag escondida entre os resultados obtidos.
 
+[![003.png](https://i.postimg.cc/0NbVfnVS/003.png)](https://postimg.cc/Y4BN26K2)
+
 ### Materiais para consulta em caso de dúvidas: 
 
 *Oque é um XOR?* (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
@@ -15,9 +17,6 @@ Este desafio começa com a plataforma disponibilizando um dado hexadecimal para 
 *Oque seriam os Bytes?* (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
 
 *Sobre a biblioteca pwn tools:* (https://docs.pwntools.com/en/stable/)
-
-[![003.png](https://i.postimg.cc/0NbVfnVS/003.png)](https://postimg.cc/Y4BN26K2)
-
 
 # Solução
 
