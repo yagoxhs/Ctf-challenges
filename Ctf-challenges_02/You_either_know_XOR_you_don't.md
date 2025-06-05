@@ -1,7 +1,7 @@
 
 #You either know, XOR you don't
 ###### Resolvido por @Yago Martins
-> Este é um CTF sobre XOR.
+> Este é um CTF que estimula o desafiante a solucionar várias etapas de um quebra cabeça, utilizando vários metodos de cálculo com XOR e linguagem de programação para encontrar a flag.
 # Sobre o desafio
 
 Este desafio disponibiliza um dado hexadecimal para resolução do desafio, você precisa descobrir qual a chave secreta para decriptografar a flag escondida com a seguinte dica: "lembre-se do formato da flag", tendo isso em mente, vamos utilizar durante o procedimento de resolução do desafio.
@@ -53,6 +53,8 @@ Com os dados obtidos, basta criar uma váriavel atribuindo a string da nossa cha
 Em seguida, basta imprimir nossa flag utilizando o comando: "*print(xor(b,d))*" (faz o xor nos bytes contidos no hexadecimal contidos na váriavel "a" em conjunto com a nossa chave contida na váriavel "d"). 
 
 [![03.png](https://i.postimg.cc/hvJVH4JP/03.png)](https://postimg.cc/XBbZ5bcT)
+
+Enfim! ao final das linhas do código, podemos nítidamente encontar nossa flag.
 
 
 
