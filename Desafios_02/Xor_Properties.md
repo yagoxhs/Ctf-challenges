@@ -17,6 +17,8 @@ basicamente são as relações dos cálculos do xor e os resultados que ele ofer
 
 *Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
+*Oque é um ASCII?* (https://www.techtudo.com.br/noticias/2022/10/o-que-e-o-codigo-ascii-confira-a-tabela-completa-e-para-que-serve.ghtml)
+
 # Solução
 
 Inicialmente, como mostra a imagem, temos o *XOR* da Key 1; 
