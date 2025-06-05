@@ -28,7 +28,9 @@ Após o download, abra o terminal *PowerShell* (apertando o botão do windows, d
 
 ### Iniciaremos o código do nosso programa para resolução deste desafio.
 
-Digite o comando : "*python3*" (para iniciar o terminal python); 
+#### Digite os comandos a seguir :
+
+ "*python3*" (para iniciar o terminal python); 
 
 "*from pwn import**" (importa a biblioteca *pwn tools* que você acabou de instalar);
 
