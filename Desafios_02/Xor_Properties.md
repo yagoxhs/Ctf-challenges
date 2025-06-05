@@ -35,7 +35,7 @@ Com o entendimento das relações de Xor, e os resultados que precisam ser encon
 
 Mas porque não utilizaremos e relação (⊕ Key 1 com ⊕ Key 2) para obter a Key 2? Pois não será necessário, Tendo a Key 1 e o resultado da (Key 2 com a Key 3) vamos cortar caminho e utilizar suas relações para obter as 3 keys de uma vez 😅! 
 
-Para isso utilizaremos a ferramenta online *Xor Calculator*(https://xor.pw/#) com as seguintes configurações:
+Para isso utilizaremos a ferramenta online *Xor Calculator*(https://xor.pw/#) com as seguintes configurações: *InputI = base 16* (entrada de dados 1), *InputII = base 16* (entrada de dados 2) e *Output = base 16* para pegar a *XOR* resultante.
 
 [![02.png](https://i.postimg.cc/Rhskhhh5/02.png)](https://postimg.cc/zHhtPJT0)
 
