@@ -15,7 +15,7 @@ bascimanete são as relações dos cálculos do xor e os resultados que ele ofer
 
 # Solução
 
-Inicialmente, como mostra a imagem, temos o *XOR* Key 1; 
+Inicialmente, como mostra a imagem, temos o *XOR* da Key 1; 
 
 A Key 2 é obtida através da relação: [Key 1 ⊕ com (Key 1 ⊕ Key 2)]; 
 
