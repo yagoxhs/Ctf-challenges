@@ -1,0 +1,44 @@
+
+#XOR Properties
+###### Resolvido por @Yago Martins
+> Este é um CTF que aborda principalmente as relações de cálculo de *XOR*, contendo várias incógnitas e necessitando de suas mudanças de base.
+# Sobre o desafio
+Este desafio é sobre o cálculo das relações do XOR para obtenção da flag, para melhor entendimento, vamos tratar as relações de *XOR* como o símbolo: ⊕, primeiro o desafio oferece as propriedades das operações do xor para resolver o desafio: 
+
+[![001.png](https://i.postimg.cc/0QrdxyTJ/001.png)](https://postimg.cc/wy8sQgT6)
+
+bascimanete são as relações dos cálculos do xor e os resultados que ele oferece, isso será utilizado para encontrar incógntas das seguintes relações de chaves e flag:
+
+[![002.png](https://i.postimg.cc/h4kbWgpf/002.png)](https://postimg.cc/RqTnwrrB)
+
+
+
+# Solução
+
+Inicialmente, como mostra a imagem, temos a Key 1, a Key 2 é obtida através da relação Key 1 ⊕ com (Key 1 ⊕ Key 2) Porque? Como já temos a Key 1, após relacionar a Key 1 com o resultado da Key 1 com a Key 2, sobrará quem? Sim! Somente a Key 2, então seguindo esta lógica de "Subtração" a Key 3 é obtida através da relação Key 2 ⊕ (Key 2 ⊕ Key 3) e finalmente para obter a FLAG, precisaremos dos resultados das relações das 3 Keys com o resultado da (⊕Flag com Key 1 ⊕ Key 2 ⊕ Key 3).
+Como se fosse um sistema de equações, precisamos solucionar as incógnitas para junta-las e no final voltar um resultado; Então vamos para a prática!
+
+## Etapa 1
+
+[![01.png](https://i.postimg.cc/tCbZNgBt/01.png)](https://postimg.cc/XX2YVnSp)
+
+Com o entendimento das relações de Xor, e os resultados que precisam ser encontrador, vamos utilizar apenas as keys destacadas com a seta na imagem para relaciona-las;  Mas porque não utilizaremos e relação ⊕ Key 1 com ⊕ Key 2 para obter a Key 2? Pois não será necessário, Tendo a Key 1 e o resultado da Key 2 com a Key 3 vamos cortar caminho e utilizar suas relações para obter as 3 keys de uma vez 😅! para isso utilizaremos a ferramenta online *Xor Calculator*(https://xor.pw/#) com as seguintes configurações:
+
+[![02.png](https://i.postimg.cc/Rhskhhh5/02.png)](https://postimg.cc/zHhtPJT0)
+
+## Etapa 2
+
+Tendo finalmente a *XOR* das 3 keys, usando a mesma lógica de "Subtração" de XOR, vamos relacionar as nossas Keys com a última relação *Xor* sobrando somente nossa flag, então com as seguintes configurações e trocando a base 16 da resultado para base 256 ASCII, conseguimos de forma direta a obtenção  já em seu próprio formato: 
+
+[![03.png](https://i.postimg.cc/FzB6m6Ch/03.png)](https://postimg.cc/sG5m4TRL)
+
+## Etapa 3
+
+Enfim, basta somente copiar e submeter na plataforma para solucionar o desafio.
+
+[![04.png](https://i.postimg.cc/sgSLdwYR/04.png)](https://postimg.cc/CRh7bCrv)
+
+
+
+>`crypto{x0r_i5_ass0c1at1v3}`
+ 
