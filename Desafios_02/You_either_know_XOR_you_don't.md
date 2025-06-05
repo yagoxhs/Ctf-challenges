@@ -14,7 +14,7 @@ Este desafio disponibiliza um dado hexadecimal para resolução do desafio, voc�
 
 *Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
-*Oque seriam os Bytes?* (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html?)
+*Oque seriam os Bytes?* (https://www.ime.usp.br/~pf/algoritmos/aulas/bytes.html)
 
 *Sobre a biblioteca pwn tools:* (https://docs.pwntools.com/en/stable/)
 
