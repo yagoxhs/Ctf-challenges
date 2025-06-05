@@ -15,7 +15,7 @@ bascimanete são as relações dos cálculos do xor e os resultados que ele ofer
 
 # Solução
 
-Inicialmente, como mostra a imagem, temos a Key 1, a Key 2 é obtida através da relação Key 1 ⊕ com (Key 1 ⊕ Key 2) Porque? Como já temos a Key 1, após relacionar a Key 1 com o resultado da Key 1 com a Key 2, sobrará quem? Sim! Somente a Key 2, então seguindo esta lógica de "Subtração" a Key 3 é obtida através da relação Key 2 ⊕ (Key 2 ⊕ Key 3) e finalmente para obter a FLAG, precisaremos dos resultados das relações das 3 Keys com o resultado da (⊕Flag com Key 1 ⊕ Key 2 ⊕ Key 3).
+Inicialmente, como mostra a imagem, temos a Key 1; a Key 2 é obtida através da relação: [Key 1 ⊕ com (Key 1 ⊕ Key 2)]; Mas porque? Como já temos a Key 1, após relacionar a Key 1 com o resultado da (Key 1 com a Key 2); sobrará quem? Sim! Somente a Key 2, então seguindo esta lógica de "Subtração" a Key 3 é obtida através da relação [Key 2 ⊕ (Key 2 ⊕ Key 3)] e finalmente para obter a FLAG precisaremos dos resultados das relações das 3 Keys com o resultado da (⊕Flag com Key 1 ⊕ Key 2 ⊕ Key 3).
 Como se fosse um sistema de equações, precisamos solucionar as incógnitas para junta-las e no final voltar um resultado; Então vamos para a prática!
 
 ## Etapa 1
