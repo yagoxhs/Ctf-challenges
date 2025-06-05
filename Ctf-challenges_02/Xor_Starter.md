@@ -1,6 +1,6 @@
 #XOR Starter
 ###### Resolvido por @Yago Martins
-> Este é um CTF sobre XOR.
+> Este é um CTF sobre como utilizar as conversões de bases através de *XOR* afim de juntar os dados e formar a flag.
 # Sobre o desafio
 Este desafio é sobre uma introdução da plataforma "CryptoHack" ao cálculo de *XOR*(XOR é usada para aplicar a operação lógica XOR (Exclusive OR) entre dois conjuntos de dados — normalmente um texto e uma chave. É útil para decifrar mensagens simples, analisar cookies, ou quebrar criptografias fracas{ https://ctf101.org/cryptography/what-is-xor/ }). O desafio oferece uma string "label" e um número inteiro para a conversão da flag.
 
