@@ -11,7 +11,11 @@ bascimanete são as relações dos cálculos do xor e os resultados que ele ofer
 
 [![002.png](https://i.postimg.cc/h4kbWgpf/002.png)](https://postimg.cc/RqTnwrrB)
 
+### Materiais para consulta em caso de dúvidas: 
 
+*Oque é um XOR?* (https://www.bosontreinamentos.com.br/seguranca/criptografia-revisao-de-operacoes-logicas-and-or-xor-e-not/?amp=1)
+
+*Oque é um Hexadecimal?* (https://ehgomes.com.br/informatica/entenda-o-hexadecimal-conceito-uso-e-importancia/)
 
 # Solução
 
