@@ -1,35 +1,44 @@
-#XOR Starter
+
+#XOR Properties
 ###### Resolvido por @Yago Martins
 > Este é um CTF sobre XOR.
-## Sobre o desafio
-Este desafio é sobre uma introdução da plataforma "CryptoHack" ao cálculo de *XOR*(XOR é usada para aplicar a operação lógica XOR (Exclusive OR) entre dois conjuntos de dados — normalmente um texto e uma chave. É útil para decifrar mensagens simples, analisar cookies, ou quebrar criptografias fracas{ https://ctf101.org/cryptography/what-is-xor/ }). O desafio oferece uma string "label" e um número inteiro para a conversão da flag.
+# Sobre o desafio
+Este desafio é sobre o cálculo das relações do XOR para obtenção da flag, para melhor entendimento, vamos tratar as relações de *XOR* como o símbolo: ⊕, primeiro o desafio oferece as propriedades das operações do xor para resolver o desafio: 
 
-[![01.png](https://i.postimg.cc/RZG0RV2y/01.png)](https://postimg.cc/0zMx5xk0)
+[![001.png](https://i.postimg.cc/0QrdxyTJ/001.png)](https://postimg.cc/wy8sQgT6)
 
+bascimanete são as relações dos cálculos do xor e os resultados que ele oferece, isso será utilizado para encontrar incógntas das seguintes relações de chaves e flag:
 
-## Solução
-Para a resolução deste desafio, usei uma ferramenta on-line de cálculo de xor(https://xor.pw/#), que de uma forma simples e prática consegui converter a flag seguindo os seguintes passos:
-
-*Passo 1*
-
-Você deve se redirigir ao site da ferramenta e configurar os respectivos formatos de base para ser compatível com sua string e seu número inteiro.
-
-[![02.png](https://i.postimg.cc/CKmfz4FZ/02.png)](https://postimg.cc/Ty5Psg5G)
-
-*Passo 2*
-
-Após ir colocando as strings por ordem, ir guardando os resultados oferecidos em algum rascunho para obtenção da flag posteriormente.
-
-[![03.png](https://i.postimg.cc/Gp7JZRTS/03.png)](https://postimg.cc/CZ8qqWNj)
-
-*Passo 3*
-
-Enfim, após a obtenção do resultado, juntar todos os caracteres e colocar no formato da flag para conclusão do desafio!
-
-[![04.png](https://i.postimg.cc/brXbhwyL/04.png)](https://postimg.cc/475nvZhh)
+[![002.png](https://i.postimg.cc/h4kbWgpf/002.png)](https://postimg.cc/RqTnwrrB)
 
 
 
+# Solução
 
->`crypto{aloha}`
+Inicialmente, como mostra a imagem, temos a Key 1, a Key 2 é obtida através da relação Key 1 ⊕ com (Key 1 ⊕ Key 2) Porque? Como já temos a Key 1, após relacionar a Key 1 com o resultado da Key 1 com a Key 2, sobrará quem? Sim! Somente a Key 2, então seguindo esta lógica de "Subtração" a Key 3 é obtida através da relação Key 2 ⊕ (Key 2 ⊕ Key 3) e finalmente para obter a FLAG, precisaremos dos resultados das relações das 3 Keys com o resultado da (⊕Flag com Key 1 ⊕ Key 2 ⊕ Key 3).
+Como se fosse um sistema de equações, precisamos solucionar as incógnitas para junta-las e no final voltar um resultado; Então vamos para a prática!
+
+## Etapa 1
+
+[![01.png](https://i.postimg.cc/tCbZNgBt/01.png)](https://postimg.cc/XX2YVnSp)
+
+Com o entendimento das relações de Xor, e os resultados que precisam ser encontrador, vamos utilizar apenas as keys destacadas com a seta na imagem para relaciona-las;  Mas porque não utilizaremos e relação ⊕ Key 1 com ⊕ Key 2 para obter a Key 2? Pois não será necessário, Tendo a Key 1 e o resultado da Key 2 com a Key 3 vamos cortar caminho e utilizar suas relações para obter as 3 keys de uma vez 😅! para isso utilizaremos a ferramenta online *Xor Calculator*(https://xor.pw/#) com as seguintes configurações:
+
+[![02.png](https://i.postimg.cc/Rhskhhh5/02.png)](https://postimg.cc/zHhtPJT0)
+
+## Etapa 2
+
+Tendo finalmente a *XOR* das 3 keys, usando a mesma lógica de "Subtração" de XOR, vamos relacionar as nossas Keys com a última relação *Xor* sobrando somente nossa flag, então com as seguintes configurações e trocando a base 16 da resultado para base 256 ASCII, conseguimos de forma direta a obtenção  já em seu próprio formato: 
+
+[![03.png](https://i.postimg.cc/FzB6m6Ch/03.png)](https://postimg.cc/sG5m4TRL)
+
+## Etapa 3
+
+Enfim, basta somente copiar e submeter na plataforma para solucionar o desafio.
+
+[![04.png](https://i.postimg.cc/sgSLdwYR/04.png)](https://postimg.cc/CRh7bCrv)
+
+
+
+>`crypto{x0r_i5_ass0c1at1v3}`
  
