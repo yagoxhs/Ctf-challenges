@@ -39,7 +39,7 @@ Digite o comando : "*python3*" (para iniciar o terminal python);
 
 "*for i in range (0,99):*"(faz um loop de repetição de 0 a 99 para para o xor transitar entre os bytes selecionados);
 
-"*print(xor(b,i)) e pressionar enter duas vezes*" (faz o xor durante o laço de repetição, imprimindo no terminal os resultados obtidos após a relação do xor com cada byte extraído do hexadecimal). 
+"*print(xor(b,i)) e pressionar *Enter* duas vezes*" (faz o xor durante o laço de repetição, imprimindo no terminal os resultados obtidos após a relação do xor com cada byte extraído do hexadecimal). 
 
 [![002.png](https://i.postimg.cc/ZK0zWGNP/002.png)](https://postimg.cc/Tp84SHCh)
 
