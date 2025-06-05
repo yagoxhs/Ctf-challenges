@@ -7,7 +7,7 @@ Este desafio é sobre o cálculo das relações do *XOR* para obtenção da flag
 
 [![001.png](https://i.postimg.cc/0QrdxyTJ/001.png)](https://postimg.cc/wy8sQgT6)
 
-bascimanete são as relações dos cálculos do xor e os resultados que ele oferece, isso será utilizado para encontrar incógntas das seguintes relações de chaves e flag:
+basicamente são as relações dos cálculos do xor e os resultados que ele oferece, isso será utilizado para encontrar incógntas das seguintes relações de chaves e flag:
 
 [![002.png](https://i.postimg.cc/h4kbWgpf/002.png)](https://postimg.cc/RqTnwrrB)
 
