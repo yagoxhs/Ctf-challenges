@@ -18,7 +18,7 @@ Você deve se redirigir ao site da ferramenta e configurar os respectivos format
 
 ## *Passo 2*
 
-Após ir colocando as strings por ordem, ir guardando os resultados oferecidos em algum rascunho para obtenção da flag posteriormente.
+Após ir colocando as strings por ordem, você deve guardar os resultados oferecidos em algum rascunho para obtenção da flag posteriormente.
 
 [![03.png](https://i.postimg.cc/Gp7JZRTS/03.png)](https://postimg.cc/CZ8qqWNj)
 
