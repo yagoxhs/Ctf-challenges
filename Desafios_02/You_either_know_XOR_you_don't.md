@@ -14,7 +14,7 @@ Este desafio disponibiliza um dado hexadecimal para resolução do desafio, voc�
 
 ## Etapa 1
 
-Para resolução deste desafio, utilizaremos a linguagem de programação python. Acessando o site oficial do python e fazendo download de sua última versão.(https://www.python.org/downloads/)
+Para resolução deste desafio, utilizaremos a linguagem de programação python. Acesse o site oficial do python e faça download de sua última versão.(https://www.python.org/downloads/)
 
 [![004.png](https://i.postimg.cc/3RhDRJ0w/004.png)](https://postimg.cc/DWCzphgV)
 
